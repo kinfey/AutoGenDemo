@@ -1,0 +1,23 @@
+[
+    {
+        "model": "Your Azure OpenAI Service Deployment Model Name",
+        "api_key": "Your Azure OpenAI Service API Key",
+        "base_url": "Your Azure OpenAI Service Endpoin",
+        "api_type": "azure",
+        "api_version": "Your Azure OpenAI Service version, eg 2023-12-01-preview"
+    },
+    {
+        "model": "Your Azure OpenAI Service Deployment Model Name",
+        "api_key": "Your Azure OpenAI Service API Key",
+        "base_url": "Your Azure OpenAI Service Endpoin",
+        "api_type": "azure",
+        "api_version": "Your Azure OpenAI Service version, eg 2023-12-01-preview"
+    },
+    {
+        "model": "Your Azure OpenAI Service Deployment Model Name",
+        "api_key": "Your Azure OpenAI Service API Key",
+        "base_url": "Your Azure OpenAI Service Endpoin",
+        "api_type": "azure",
+        "api_version": "Your Azure OpenAI Service version, eg 2023-12-01-preview"
+    }
+]

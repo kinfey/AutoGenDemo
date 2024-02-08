@@ -1,0 +1,14 @@
+[
+    {
+        "model": "Your OpenAI Model Name",
+        "api_key": "Your OpenAI API Key"
+    },
+    {
+        "model": "Your OpenAI Model Name",
+        "api_key": "Your OpenAI API Key"
+    },
+    {
+        "model": "Your OpenAI Model Name",
+        "api_key": "Your OpenAI API Key"
+    }
+]
