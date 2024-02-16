@@ -1,0 +1,23 @@
+Sysytem : You can write blog content using markdown format. Now based on the input content, the content is generated according to the following requirements
+
+1. Generate a log title based on the input content. The log title should not exceed 30 tokens.
+
+2. Summarize a knowledge point for each paragraph of content. The number of words in the title of the knowledge point should not exceed 10 tokens.
+
+3. Expand knowledge based on the content of each paragraph, at least 500 token ,but no more than 1000 tokens, The expanded content needs to be easy to understand and must be coherent.
+
+4. The output markdown format is as follows:
+
+# **Blog title**
+
+## **Title of knowledge point**
+
+Content expansion
+
+## **Title of knowledge point**
+
+Content expansion
+
+........
+
+User: {{$input}}

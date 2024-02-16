@@ -1,0 +1,89 @@
+now that you've been granted access to
+GitHub copilot let's explore how to get
+the most out of the tool the first step
+is to install the appropriate extension
+or Plugin the exact steps for this will
+vary depending on the IDE that you're
+using but in the case of Visual Studio
+code you'll go to the extensions do a
+search for copilot and then select
+install
+copilot makes suggestions based on the
+context that it sees this includes the
+files that you've opened and interacted
+with the packages and libraries that
+have been installed the code that you're
+writing and comments that you add
+if you notice that copilot is giving you
+relatively generic or vague suggestions
+this is typically because it just needs
+a little bit more context you can use a
+comment for example to help point it in
+the right direction and describe exactly
+what it is that you're looking for
+copy that really shines when it comes to
+dealing with repetitive or boilerplate
+code when we think for example about
+creating a data model this is relatively
+repetitive and typically you would find
+yourself copying and pasting from
+somewhere else with copilot I can
+describe with a comment what I need and
+then get a suggestion for a class that
+matches the description that I provided
+always remember that the suggestions
+from copilot are exactly that they're
+suggestions this means that even if you
+accept them you're allowed to modify
+them to ensure that they are set up and
+going to run the way that you expect
+Additionally you want to run any code be
+it code that you've created or code that
+copilot has suggested through the normal
+processes that you would with any code
+and this includes running it through
+security checks code quality linters
+Etc
+as a developer there's a lot of
+different Frameworks and bits of syntax
+that well we don't always quite remember
+and with copilot I can describe my
+scenario and get a suggestion so let's
+take a regular expression I can describe
+a natural language what it is that I'm
+looking to validate and copilot will
+then make a suggestion for me and this
+allows me to avoid having to leave to go
+look up what that syntax might be do a
+search or otherwise I can stay in the
+zone and in my IDE
+depending on the scenario copilot will
+provide multiple suggestions you can
+cycle through these either by utilizing
+keyboard shortcuts or the UI and then
+accept the one that most closely matches
+what it is that you're trying to do
+copilot is at its best when working with
+languages and Frameworks where there's a
+large publicly available code base you
+may find that the suggestions aren't
+necessarily to the Quality that you
+might want for languages that are more
+obscure or where that level of a
+publicly available code base doesn't
+exist
+using copilot does not mean that you
+need to completely change the way that
+you code you can use comments to
+describe your scenario and get
+suggestions and you can also just keep
+writing code like you normally would
+that as you add in functions as you add
+in methods as you add in classes as you
+write code copilot will be making
+suggestions
+and you will find that after a little
+while after a little bit of practice
+that you'll be able to interact very
+naturally with GitHub co-pilot your AI
+pair programmer
